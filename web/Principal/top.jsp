@@ -67,7 +67,9 @@
                         <li><a href="../registros/visitas.jsp">VISITAS</a></li>
                         <li><a href="../registros/estudiantes.jsp">ESTUDIANTES</a></li>
                         <li><a href="../registros/capellan.jsp">CAPELLANES</a></li>
-                      
+                        <li><a href="../registros/persona.jsp">PERSONA</a></li>
+                        <li><a href="../registros/personal.jsp">PERSONAL</a></li>
+                        <li><a href="../registros/usuario.jsp">USUARIO</a></li>
                       
                     </ul>
                   </li>

@@ -1,0 +1,17 @@
+SMAP
+persona_jsp.java
+JSP
+*S JSP
+*F
++ 0 top.jsp
+registros/../Principal/top.jsp
++ 1 persona.jsp
+registros/persona.jsp
++ 2 botton.jsp
+registros/../Principal/botton.jsp
+*L
+1,143:50
+1#1,146:193
+1#2,317:338
+146#1:654
+*E
